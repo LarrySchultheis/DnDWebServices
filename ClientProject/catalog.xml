@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <nextCatalog catalog="nbproject/private/retriever/catalog.xml"/>
+    <system systemId="http://localhost:8084/ServiceProject/EncounterWS?wsdl" uri="src/conf/xml-resources/web-service-references/EncounterWS/wsdl/localhost_8084/ServiceProject/EncounterWS.wsdl"/>
+    <system systemId="http://localhost:8084/ServiceProject/EncounterWS?xsd=1" uri="src/conf/xml-resources/web-service-references/EncounterWS/wsdl/localhost_8084/ServiceProject/EncounterWS.xsd_1.xsd"/>
+    <system systemId="http://localhost:8084/ServiceProject/CharacterWS?wsdl" uri="src/conf/xml-resources/web-service-references/CharacterWS/wsdl/localhost_8084/ServiceProject/CharacterWS.wsdl"/>
+    <system systemId="http://localhost:8084/ServiceProject/CharacterWS?xsd=1" uri="src/conf/xml-resources/web-service-references/CharacterWS/wsdl/localhost_8084/ServiceProject/CharacterWS.xsd_1.xsd"/>
+    <system systemId="https://localhost:8443/ServiceProject/CharacterWS?wsdl" uri="src/conf/xml-resources/web-service-references/CharacterWS/wsdl/localhost_8443/ServiceProject/CharacterWS.wsdl"/>
+    <system systemId="https://localhost:8443/ServiceProject/CharacterWS?xsd=1" uri="src/conf/xml-resources/web-service-references/CharacterWS/wsdl/localhost_8443/ServiceProject/CharacterWS.xsd_1.xsd"/>
+    <system systemId="https://localhost:8443/ServiceProject/EncounterWS?wsdl" uri="src/conf/xml-resources/web-service-references/EncounterWS/wsdl/localhost_8443/ServiceProject/EncounterWS.wsdl"/>
+    <system systemId="https://localhost:8443/ServiceProject/EncounterWS?xsd=1" uri="src/conf/xml-resources/web-service-references/EncounterWS/wsdl/localhost_8443/ServiceProject/EncounterWS.xsd_1.xsd"/>
+</catalog>

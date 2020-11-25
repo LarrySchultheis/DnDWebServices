@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<endpoints version="2.0" xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime">
+  <endpoint implementation="services.encounter.EncounterWS" name="EncounterWS" url-pattern="/EncounterWS"/>
+  <endpoint implementation="services.encounter.EncounterWS" name="EncounterWS" url-pattern="/EncounterWS"/>
+  <endpoint implementation="services.character.CharacterWS" name="CharacterWS" url-pattern="/CharacterWS"/>
+  <endpoint implementation="services.character.CharacterWS" name="CharacterWS" url-pattern="/CharacterWS"/>
+</endpoints>
